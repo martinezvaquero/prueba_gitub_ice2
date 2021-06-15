@@ -1,2 +1,2 @@
-# prueba_gitub_ice2
+# README del repositorio 2
  
